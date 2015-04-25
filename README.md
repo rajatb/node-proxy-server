@@ -1,5 +1,13 @@
-# node-proxy-server
+Node Proxy Server
+=========================
 
-codepath node proxy-server
+Time spent:  2 hours spent in total
 
-I love my weekends. 
+Hamburger menu
+
+- [x] Setup Node Environment
+- [x] Echo Server
+- [x] Proxy Server
+- [x] Logging
+- [x] Destination Url
+- [x] Better Logging
